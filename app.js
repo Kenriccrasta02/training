@@ -1,4 +1,4 @@
-let ready= true; //true to get the resolved output
+let ready= true; //true to get the resolved outputs
 
 const test= new Promise((resolve,reject)=>
 {
